@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 testing 1 2 3
 
 ## Purpose
+hier auch noch
 
 Sample website with plenty of files for demos
 
@@ -12,3 +13,4 @@ Sample website with plenty of files for demos
 another text change woop woop
 
 into text
+big text incoming
