@@ -14,3 +14,7 @@ another text change woop woop
 
 into text
 big text incoming
+
+### Copyright
+
+2019 wooop woop
