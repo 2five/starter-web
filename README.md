@@ -19,4 +19,4 @@ big text incoming
 ### Copyright
 
 2019 wooop woop
-extra stuff wooop
+extra stuff wooop all rights reserved
