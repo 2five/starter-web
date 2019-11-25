@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-testing 1 2 3 adding more text, then
-more changes from myfeatures
+testing 1 2 3 add fix ifxi fx
 
 ## Purpose
 hier auch noch
